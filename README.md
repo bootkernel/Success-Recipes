@@ -1,2 +1,2 @@
 # Success-Recipes
-A program which tells you the amount of ingredients you need based on some limited sets of data
+A program which gives you nutritional information based on the ingredients that you chose.
